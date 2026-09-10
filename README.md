@@ -426,15 +426,11 @@ This indicates that **shipping mode selection is an important operational factor
 
 The Power BI dashboard converts the analytical findings into an interactive business-facing view.
 
-### Dashboard Preview
-
-https://app.powerbi.com/links/xSFDIpg44i?ctid=db42e3a7-6b81-4222-8d6c-b384cd28e5ed&pbi_source=linkShare
 
 ### 🔗 Interactive Dashboard
 
-**[View Interactive Power BI Dashboard](#)**
+**[View Interactive Power BI Dashboard](https://app.powerbi.com/links/xSFDIpg44i?ctid=db42e3a7-6b81-4222-8d6c-b384cd28e5ed&pbi_source=linkShare)**
 
-> Replace `#` with your Power BI dashboard link once it is published.
 
 ---
 
