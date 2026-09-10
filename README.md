@@ -428,7 +428,7 @@ The Power BI dashboard converts the analytical findings into an interactive busi
 
 ### Dashboard Preview
 
-> **🚧 Power BI dashboard preview will be added here.**
+https://app.powerbi.com/links/xSFDIpg44i?ctid=db42e3a7-6b81-4222-8d6c-b384cd28e5ed&pbi_source=linkShare
 
 ### 🔗 Interactive Dashboard
 
